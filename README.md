@@ -1,3 +1,5 @@
+## Internship Information
+This project was developed as part of the MindMatrix Internship Program.
 # Shishu Sneh – Smart Child Healthcare Monitoring App 👶📱
 
 Shishu Sneh is a smart Android healthcare monitoring application developed using Kotlin and Firebase. The application helps parents digitally manage child healthcare information including vaccination reminders, growth tracking, feeding schedules, milestone monitoring, and emergency healthcare support.
