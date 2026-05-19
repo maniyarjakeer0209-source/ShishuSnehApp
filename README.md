@@ -91,10 +91,12 @@ The project follows a modular Android application structure for better maintaina
 ## Test User Login
 
 Email:
-testuser@shishusneh.com
+test@gmail.com
+or test1@gmail.com
+same password for both
 
 Password:
-Test@123
+123456
 
 > Note: These credentials are provided only for project demonstration and evaluation purposes.
 
