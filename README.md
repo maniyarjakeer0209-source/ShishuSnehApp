@@ -134,6 +134,22 @@ Application screenshots including:
 
 have been included in the project documentation PDF.
 
+# 📸 Application Screenshots
+
+## Login Screen
+![Login Screen](screenshots/login-screen.png)
+
+## Dashboard
+![Dashboard](screenshots/dashboard-screen.png)
+
+## Growth Tracker
+![Growth Tracker](screenshots/growth-tracker.png)
+
+## Feeding Tracker
+![Feeding Tracker](screenshots/feeding-tracker.png)
+
+## Navigation Drawer
+![Navigation Drawer](screenshots/navigation-drawer.png)
 ---
 
 # 🏆 Achievements & Certifications
