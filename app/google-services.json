@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693945813073",
+    "project_id": "shishusneh-a92fe",
+    "storage_bucket": "shishusneh-a92fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693945813073:android:d00ec0641dc8f49e0d5070",
+        "android_client_info": {
+          "package_name": "com.example.shishusneh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT2ui0tKvc5Hrd8u9Bl0Dp62e2WASqtN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
